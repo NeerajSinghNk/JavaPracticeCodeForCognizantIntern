@@ -1,0 +1,2 @@
+# JavaPracticeCodeForCognizantIntern
+Cognizant ADM Code
